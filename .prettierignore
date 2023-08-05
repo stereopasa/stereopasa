@@ -1,0 +1,8 @@
+## Ignore all files (but still allow sub-folder scanning)
+*
+!*/
+
+## Allow certain file types
+!*.svg
+!*.json
+!*.md
